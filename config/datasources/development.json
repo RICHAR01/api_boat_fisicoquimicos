@@ -1,0 +1,6 @@
+[
+  {
+    "name": "mongodb",
+    "url": "mongodb://richar01:mongodb01@ds261626.mlab.com:61626/lancha"
+  }
+]
