@@ -1,4 +1,4 @@
-# Easycredit-api
+-fisicoquimicos-boat-api
 
 API made with koa2 (web services) and mongodb (storage).
 
